@@ -2,6 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Published:
+
+https://justjd04.github.io/react-redux-todo/
+
+## Scripts to Publish
+
+Add in package.json
+```"homepage": "https://justjd04.github.io/repo-name",```
+
+```"scripts": {
+
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+
+}```
+
+```npm install gh-pages --save-dev```
+
+```npm run deploy```
+
 ## Available Scripts
 
 In the project directory, you can run:
