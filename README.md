@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://justjd04.github.io/react-redux-todo/
 
-## Scripts to Publish
+## Available Scripts
 
 Add in package.json
 
@@ -27,10 +27,6 @@ Add in package.json
 ```npm install gh-pages --save-dev```
 
 ```npm run deploy```
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `yarn start`
 
