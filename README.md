@@ -20,6 +20,7 @@ Add in package.json
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build",
 
+...
 }
 ```
 
