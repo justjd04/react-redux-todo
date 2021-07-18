@@ -8,7 +8,7 @@ https://justjd04.github.io/react-redux-todo/
 
 ## Available Scripts
 
-Add in package.json
+To Publish: Add in package.json
 
 ```
 "homepage": "https://justjd04.github.io/repo-name",
